@@ -1,3 +1,3 @@
 # CoderHouse - Bruno
 
-#Apenas exemplo
+#Aulas da CoderHouse
