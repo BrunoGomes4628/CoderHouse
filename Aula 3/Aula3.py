@@ -37,7 +37,7 @@ print ('esta certo')
 
 
 
-n = int(input("Digite um número para calcular o fatorial: "))
+n = int(input("Digite um número para calcular o fatorial: ")) #input
 
 fatorial = 1
 for i in range(1,n + 1):
