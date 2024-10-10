@@ -19,7 +19,7 @@ pip install requests pandas plyer sqlite3
 1. Clone o repositório:
 
 
-git clone https://github.com/Alexandre458/coderhouse-python-data.git
+git clone https://github.com/BrunoGomes4628/coderhouse-python-data.git
 
 
 2. Acesse o diretório do projeto:
